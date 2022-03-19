@@ -9,3 +9,4 @@ https://github.com/rvsp/database/blob/master/mongodb/product.json
 - 7.Find only the product name and product material
 - 8.Find all products which contain the value of soft in product material 
 - 9.Find products which contain product color indigo  and product price 492.00
+- 10.Delete the products which product price value are 36.00
